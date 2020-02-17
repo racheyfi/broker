@@ -34,7 +34,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
-    "camelcase": "^5.0.0",
+    "camelcase": "^5.3.1",
     "clarify": "^2.0.0",
     "clite": "^0.3.0",
     "dotenv": "^6.0.0",
